@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CplusCmoins/CplusCmoins.vcxproj" Id="af4225e4-993e-48d2-aba3-80efdef666d0" />
+</Solution>
