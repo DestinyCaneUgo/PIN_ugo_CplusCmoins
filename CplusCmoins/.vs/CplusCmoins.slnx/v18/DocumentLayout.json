@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555DBE28-61AE-475B-8028-1FE4034C9FE7}|CplusCmoins\\CplusCmoins.vcxproj|C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{555DBE28-61AE-475B-8028-1FE4034C9FE7}|CplusCmoins\\CplusCmoins.vcxproj|solutionrelative:CplusCmoins\\CplusCmoins.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555DBE28-61AE-475B-8028-1FE4034C9FE7}|CplusCmoins\\CplusCmoins.vcxproj|C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{555DBE28-61AE-475B-8028-1FE4034C9FE7}|CplusCmoins\\CplusCmoins.vcxproj|solutionrelative:CplusCmoins\\CplusCmoins.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CplusCmoins.c",
+              "DocumentMoniker": "C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.c",
+              "RelativeDocumentMoniker": "CplusCmoins\\CplusCmoins.c",
+              "ToolTip": "C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.c",
+              "RelativeToolTip": "CplusCmoins\\CplusCmoins.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T17:46:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CplusCmoins.cpp",
+              "DocumentMoniker": "C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.cpp",
+              "RelativeDocumentMoniker": "CplusCmoins\\CplusCmoins.cpp",
+              "ToolTip": "C:\\Users\\ugopi\\Desktop\\Truc Github\\PIN_ugo_CplusCmoins\\CplusCmoins\\CplusCmoins\\CplusCmoins.cpp",
+              "RelativeToolTip": "CplusCmoins\\CplusCmoins.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T17:46:21.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
